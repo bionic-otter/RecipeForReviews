@@ -36,8 +36,7 @@ The data for this project is obtains from the Yelp Fusion API. The API provides 
 - Created a new Jupyter notebook titled "Data_Extraction_Preprocessing.ipynb" in the project directory
 
 ### Data extraction using the Yelp Fusion API (05-27-2023)
-- Used the Yelp Fusion API to fetch data related to restaurants in Toronto.
-- Created a Python function 'fetch_data_from_yelp()' to automate the data fetching process
+- Created a Python code block to fetch data using the Yelp Fusion API related to restaurants in Toronto.
 - Stored the fetched data in a pandas dataframe.
 
 ### Data Normalization (05-27-2023)
